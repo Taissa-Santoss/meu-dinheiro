@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Meu Dinheiro</string>
+    <string name="titulo_app">MEU DINHEIRO</string>
+    <string name="saldo_disponivel">Saldo disponível</string>
+    <string name="entrou">Entrou</string>
+    <string name="saiu">Saiu</string>
+    <string name="gastos_do_mes">Gastos do mês</string>
+    <string name="ver_gastos">Ver gastos</string>
+    <string name="titulo_gastos">MEUS GASTOS</string>
+    <string name="valor_reais">R$ %1$,d</string>
+    <string name="total_reais">Total: R$ %1$,d</string>
+</resources>
